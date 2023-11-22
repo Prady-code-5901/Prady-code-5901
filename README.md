@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prady-code-5901
 - 👀 I’m interested in Python, SQL, ML/AI
 - 🌱 I’m currently learning how to become a Data Engineer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything where I can learn
 - 📫 How to reach me ... email: prady.coder@gmail.com
 
 <!---
